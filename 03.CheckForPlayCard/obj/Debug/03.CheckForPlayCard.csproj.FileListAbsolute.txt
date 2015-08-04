@@ -1,0 +1,5 @@
+d:\users\asus\documents\visual studio 2013\Projects\ConditionalStatementsHomework\03.CheckForPlayCard\bin\Debug\03.CheckForPlayCard.exe.config
+d:\users\asus\documents\visual studio 2013\Projects\ConditionalStatementsHomework\03.CheckForPlayCard\bin\Debug\03.CheckForPlayCard.exe
+d:\users\asus\documents\visual studio 2013\Projects\ConditionalStatementsHomework\03.CheckForPlayCard\bin\Debug\03.CheckForPlayCard.pdb
+d:\users\asus\documents\visual studio 2013\Projects\ConditionalStatementsHomework\03.CheckForPlayCard\obj\Debug\03.CheckForPlayCard.exe
+d:\users\asus\documents\visual studio 2013\Projects\ConditionalStatementsHomework\03.CheckForPlayCard\obj\Debug\03.CheckForPlayCard.pdb

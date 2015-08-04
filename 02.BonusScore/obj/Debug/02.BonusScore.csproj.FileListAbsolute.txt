@@ -1,0 +1,6 @@
+d:\users\asus\documents\visual studio 2013\Projects\ConditionalStatementsHomework\02.BonusScore\bin\Debug\02.BonusScore.exe.config
+d:\users\asus\documents\visual studio 2013\Projects\ConditionalStatementsHomework\02.BonusScore\bin\Debug\02.BonusScore.exe
+d:\users\asus\documents\visual studio 2013\Projects\ConditionalStatementsHomework\02.BonusScore\bin\Debug\02.BonusScore.pdb
+d:\users\asus\documents\visual studio 2013\Projects\ConditionalStatementsHomework\02.BonusScore\obj\Debug\02.BonusScore.csprojResolveAssemblyReference.cache
+d:\users\asus\documents\visual studio 2013\Projects\ConditionalStatementsHomework\02.BonusScore\obj\Debug\02.BonusScore.exe
+d:\users\asus\documents\visual studio 2013\Projects\ConditionalStatementsHomework\02.BonusScore\obj\Debug\02.BonusScore.pdb
